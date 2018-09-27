@@ -1,0 +1,22 @@
+@import './style.css';
+
+.pr {
+  display: inline-block;
+  /* stylelint-disable font-family-no-missing-generic-family-keyword */
+  font: normal normal normal 14px/1 'pin-runes';
+  /* stylelint-enable */
+  font-size: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: auto;
+}
+
+.pr-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+
+.pr-lg {
+  font-size: 1.33333333em;
+  vertical-align: -15%;
+}
