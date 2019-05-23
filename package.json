@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Web fonts for Pharma Information Network.",
   "main": "style.css",
-  "repository": "ssh://git@github.com/pharma-information-network/runes.git",
+  "repository": "ssh://git@github.com/pharma-information-network/pin-runes.git",
   "author": "Daisuke Tsuji <dim0627@gmail.com>",
   "license": "MIT"
 }
